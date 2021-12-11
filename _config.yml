@@ -15,25 +15,28 @@ website: https://donadelnal.github.io/Personal_page/
 darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# twitter_username: 
+github_username:  Donadelnal
+# stackoverflow_username: 
+# dribbble_username: 
+# facebook_username: 
+# flickr_username: 
+# instagram_username: 
+linkedin_username: Daniel Zalewski
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+# orcid_username: 0000-0002-2254-2009
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+- title: ORCID
+  icon: fab fa-orcid
+  url: https://orcid.org/0000-0002-2254-2009
+  - title: Researchgate
+  icon: fab fa-researchgate
+  url: https://www.researchgate.net/profile/Daniel_Zalewski29
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
