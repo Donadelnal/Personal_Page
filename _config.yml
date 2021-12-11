@@ -12,7 +12,7 @@ email: daniel.piotr.zalewski@gmail.com
 website: https://donadelnal.github.io/Personal_page/
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 # twitter_username: 
@@ -31,10 +31,10 @@ linkedin_username: Daniel Zalewski
 
 # Additional icon links
 additional_links:
-- title: ORCID
+- title: ORCID link
   icon: fab fa-orcid
   url: https://orcid.org/0000-0002-2254-2009
-- title: Researchgate
+- title: Researchgate link
   icon: fab fa-researchgate
   url: https://www.researchgate.net/profile/Daniel_Zalewski29
 # - title: another link
@@ -43,9 +43,9 @@ additional_links:
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+gtm: "GTM-0000000"
+gtag: "UA-00000000-0"
+google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
