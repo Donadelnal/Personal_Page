@@ -34,7 +34,7 @@ additional_links:
 - title: ORCID
   icon: fab fa-orcid
   url: https://orcid.org/0000-0002-2254-2009
-  - title: Researchgate
+- title: Researchgate
   icon: fab fa-researchgate
   url: https://www.researchgate.net/profile/Daniel_Zalewski29
 # - title: another link
