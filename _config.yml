@@ -10,7 +10,7 @@ name: Daniel Zalewski
 title: Researcher, Bioinformatician, R programmer, Pharmacist, Laboratory Diagnostician
 email: daniel.piotr.zalewski@gmail.com
 website: https://donadelnal.github.io/Personal_page/
-image: images/profile.tiff
+image: images/profile.tif
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -50,7 +50,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.tiff
+about_profile_image: images/profile.tif
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Daniel and work as a researcher in Medical University of Lublin in Poland.
   
