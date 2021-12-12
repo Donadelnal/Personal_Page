@@ -56,7 +56,10 @@ about_content: | # this will include new lines to allow paragraphs
   
   In my studies I focus on identification of transcriptomic biomarkers of peripheral vascular diseases to explain their pathogenesis and propose diagnostic and therapeutic targets.
   
-  I use such technologies as Ion Torrent sequencing, RT-qPCR, ELISA, and others. For data analysis and visualisation I mainly use R environment.
+  I use such technologies as Ion Torrent sequencing, RT-qPCR, ELISA, and others.
+  For data analysis and visualisation I mainly use R environment.
+  
+  Work with amazing scientist entailing relevant research results is a great reward and source of motivation and bravery to go further for a new discoveries.
 
 content:
   - title: Projects # Title for the section
