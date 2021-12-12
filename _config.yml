@@ -10,7 +10,7 @@ name: Daniel Zalewski
 title: Researcher, Bioinformatician, R programmer, Pharmacist, Laboratory Diagnostician
 email: daniel.piotr.zalewski@gmail.com
 website: https://donadelnal.github.io/Personal_page/
-image: images/profile.tif
+image: images/profile_image.jpg
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -50,11 +50,11 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.tif
+about_profile_image: images/profile_image.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Daniel and work as a researcher in Medical University of Lublin in Poland.
+  Hi, I'm Daniel and I work as a researcher in Medical University of Lublin in Poland.
   
-  In my studies I focus on identification of transcriptomic biomarkers and hallmarks of peripheral vascular diseases.
+  In my studies I focus on identification of transcriptomic biomarkers of peripheral vascular diseases to explain their pathogenesis and propose diagnostic and therapeutic targets.
   
   I use such technologies as Ion Torrent sequencing, RT-qPCR, ELISA, and others. For data analysis and visualisation I mainly use R environment.
 
