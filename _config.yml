@@ -52,22 +52,19 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile_image_ok_small.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Daniel and I work as a researcher in Medical University of Lublin in Poland.
+  Hi, I'm Daniel and I work as a researcher in the Medical University of Lublin in Poland.
   
-  In my studies I focus on identification of transcriptomic biomarkers of peripheral vascular diseases to explain their pathogenesis and propose diagnostic and therapeutic targets.
+  In my research, I focus on the identification of transcriptomic biomarkers of peripheral vascular diseases to explain their pathogenesis and propose diagnostic and therapeutic targets. I use such technologies as Ion Torrent NGS sequencing, RT-qPCR, ELISA, and for data analysis and visualisation, I mainly use an excellent R environment.
   
-  I use such technologies as Ion Torrent sequencing, RT-qPCR, ELISA, and others.
-  For data analysis and visualisation I mainly use R environment.
-  
-  Work with amazing scientist entailing relevant research results is a great reward and source of motivation and bravery to go further for a new discoveries.
+  Working in innovative fields with amazing scientists allows me to make relevant discoveries, which is a great reward and a source of motivation and bravery to go further.
 
 content:
-  - title: Projects # Title for the section
+  - title:  Research carieer # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top
-        title: Super awesome project
-        link: github.com/sproogen
+      - layout: left
+        title: Medical University of Lublin
+        link: http://www.umlub.pl/
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
