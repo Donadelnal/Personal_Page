@@ -119,7 +119,12 @@ content:
         caption: October 2007 - January 2013
         quote: >
           MSc thesis title: Chromatographic analysis and study of anticancer activity of alkaloid fractions from Chelidonium majus L.
-
+          
+      - layout: top-middle
+        title: Chairman of the Research Student Group "Biotechnolog"
+        sub_title: Development of a new thin-layer chromatography densitometric method for quantitative and qualitative determination of the main alkaloids of Chelidonium maius L. and in vitro investigations of the anticancer activity of the studied alkaloids
+        caption: October 2008 - September 2012
+        
 #  - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
 #    content: list
@@ -157,8 +162,12 @@ content:
         
       - layout: top-middle
         title: Other
-        sub_title: Identification of miRNA, transcriptomic and proteomic biomarkers associated with human peripheral vascular diseases and their risk factors.|Identification of miRNAs involved in development of glaucoma.|Investigations on Alzheimer disease-related genes after stroke.|Identification of genetic factors of human longevity.|Identification of natural compounds with antiparasitic and anticancer activity.
-        caption: since 2015
+        sub_title: Identification of miRNA, transcriptomic and proteomic biomarkers associated with human peripheral vascular diseases and their risk factors.
+        Identification of miRNAs involved in development of glaucoma.
+        Investigations on Alzheimer disease-related genes after stroke.
+        Identification of genetic factors of human longevity.
+        Identification of natural compounds with antiparasitic and anticancer activity.
+        caption: Since 2015
         
   - title: A Little More About Me
     layout: text
