@@ -149,21 +149,21 @@ content:
 #        quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-        ## The analysis of microRNA expression profiles in plasma of patients with lower extremities arterial disease, abdominal aortic aneurysm and chronic venous disease - the preliminary study.
+         ## The analysis of microRNA expression profiles in plasma of patients with lower extremities arterial disease, abdominal aortic aneurysm and chronic venous disease - the preliminary study.
           
       - layout: left
         title: STRATEGMED 3
         sub_title:
         caption: July 2018 - December 2020
         description: | # this will include new lines to allow paragraphs
-        ## Development of optimized methods of treating tissue damage based on innovative composites and mesenchymal stem cells and their derivatives in patients with civilization diseases.
+         ## Development of optimized methods of treating tissue damage based on innovative composites and mesenchymal stem cells and their derivatives in patients with civilization diseases.
           
       - layout: left
         title: BIOSTRATEG 3
         sub_title:
         caption: February 2019 - May 2019
         description: | # this will include new lines to allow paragraphs
-        ## Bioproducts from lignocellulosic biomass derived from marginal land to fill the gap in current national bioeconomy.
+         ## Bioproducts from lignocellulosic biomass derived from marginal land to fill the gap in current national bioeconomy.
           
       - layout: left
         title: Other
@@ -180,7 +180,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
      #### 2021
-     ## - [tytuł](url)
+      - [tytuł](url)
       - Gaming
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
