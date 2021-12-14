@@ -123,8 +123,8 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content: list
-      - layout: left
-        title: Minitura
+      - layout:
+        title: Miniatura
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: title of project
