@@ -142,8 +142,8 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: # Miniatura 5
+      - layout: left
+        title: Miniatura 5
         sub_title: The analysis of microRNA expression profiles in plasma of patients with lower extremities arterial disease, abdominal aortic aneurysm and chronic venous disease - the preliminary study
         caption: November 2021 - Present
 #        quote: >
