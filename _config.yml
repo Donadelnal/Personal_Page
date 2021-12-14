@@ -170,11 +170,11 @@ content:
         sub_title:
         caption: Since 2015
         description: | # this will include new lines to allow paragraphs
-          - Identification of miRNA, transcriptomic and proteomic biomarkers associated with human peripheral vascular diseases and their risk factors.
-          - Identification of miRNAs involved in development of glaucoma.
-          - Investigations on Alzheimer disease-related genes after stroke.
-          - Identification of genetic factors of human longevity.
-          - Identification of natural compounds with antiparasitic and anticancer activity.
+          ## Identification of miRNA, transcriptomic and proteomic biomarkers associated with human peripheral vascular diseases and their risk factors.
+          ## Identification of miRNAs involved in development of glaucoma.
+          ## Investigations on Alzheimer disease-related genes after stroke.
+          ## Identification of genetic factors of human longevity.
+          ## Identification of natural compounds with antiparasitic and anticancer activity.
           
   - title: Publications
     layout: text
@@ -184,17 +184,17 @@ content:
       - Gaming
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      #### 2020
       - Rock climbing
       - Gaming
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      #### 2019
       - Rock climbing
       - Gaming
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      #### 2017
       - Rock climbing
       - Gaming
       - Knitting
