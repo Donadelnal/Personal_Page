@@ -57,7 +57,7 @@ about_profile_image: images/profile_image_ok_small.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Daniel and I work as a researcher in the Medical University of Lublin in Poland.
   
-  In my research, I focus on the identification of transcriptomic biomarkers of peripheral vascular diseases to explain their pathogenesis and propose diagnostic and therapeutic targets. I use such technologies as Ion Torrent NGS sequencing, RT-qPCR, ELISA, and for data analysis and visualisation, I mainly use an excellent R environment.
+  In my research, I focus on the identification of transcriptomic biomarkers of peripheral vascular diseases to explain their pathogenesis and propose diagnostic and therapeutic targets. I use such technologies as Ion Torrent NGS sequencing, RT-qPCR, ELISA, and for data analysis and visualisation, |I mainly use an excellent R environment.
   
   Working in innovative fields with amazing scientists allows me to make relevant discoveries, which is a great reward and a source of motivation and bravery to go further.
 
@@ -124,7 +124,7 @@ content:
     layout: list # Type of content section (list/text)
     content: list
       - layout: left
-        title: Minitura 5 Leader
+        title: Minitura
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: title of project
