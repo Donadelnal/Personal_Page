@@ -144,12 +144,12 @@ content:
     content:
       - layout: left
         title: Miniatura 5
-        sub_title: The analysis of microRNA expression profiles in plasma of patients with lower extremities arterial disease, abdominal aortic aneurysm and chronic venous disease - the preliminary study
+        sub_title: 
         caption: November 2021 - Present
 #        quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
-#        description: | # this will include new lines to allow paragraphs
-#          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly #enjoyed my time as university and learnt a lot about a healthy work life balance.
+        description: | # this will include new lines to allow paragraphs
+          **The analysis** of microRNA expression profiles in plasma of patients with lower extremities arterial disease, abdominal aortic aneurysm and chronic venous disease - the preliminary study
       - layout: top-middle
         title: STRATEGMED 3
         sub_title: Development of optimized methods of treating tissue damage based on innovative composites and mesenchymal stem cells and their derivatives in patients with civilization diseases
