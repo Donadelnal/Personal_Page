@@ -122,7 +122,7 @@ content:
           
       - layout: top-middle
         title: Chairman of the Research Student Group "Biotechnolog"
-        sub_title: Development of a new thin-layer chromatography densitometric method for quantitative and qualitative determination of the main alkaloids of Chelidonium maius L. and in vitro investigations of the anticancer activity of the studied alkaloids
+        sub_title: Development of a new thin-layer chromatography densitometric method for quantitative and qualitative determination of the main alkaloids of Chelidonium maius L. and in vitro investigations of the anticancer activity of the alkaloids
         caption: October 2008 - September 2012
         
 #  - title: Projects # Title for the section
@@ -156,7 +156,7 @@ content:
         caption: July 2018 - December 2020
         
       - layout: top-middle
-        title: BIOSTRTEG 3
+        title: BIOSTRATEG 3
         sub_title: Bioproducts from lignocellulosic biomass derived from marginal land to fill the gap in current national bioeconomy
         caption: February 2019 - May 2019
         
@@ -165,9 +165,24 @@ content:
         sub_title: Identification of miRNA, transcriptomic and proteomic biomarkers associated with human peripheral vascular diseases and their risk factors. Identification of miRNAs involved in development of glaucoma. Investigations on Alzheimer disease-related genes after stroke. Identification of genetic factors of human longevity. Identification of natural compounds with antiparasitic and anticancer activity.
         caption: Since 2015
         
-  - title: A Little More About Me
+  - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
+      ## 2021
+      - [tytuł](url)
+      - Gaming
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Rock climbing
       - Gaming
