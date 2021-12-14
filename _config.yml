@@ -82,6 +82,34 @@ content:
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         #description: | # this will include new lines to allow paragraphs
         #  Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
+        
+        title: Research/Didactic Assistant Professor
+        sub_title:  Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
+        caption: February 2019 - September 2021
+        
+        title: Postgraduate course in Data Analysis
+        sub_title:  Faculty of Mathematics, Physics and Computer Science, Maria Curie-Sklodowska University in Lublin, Poland
+        caption:  October 2019 - September 2020
+        
+        title: PhD in Pharmacy
+        sub_title:  Faculty of Pharmacy, Medical University of Lublin, Poland
+        caption:  October 2015 - September 2019
+        quote: >
+          PhD thesis title: Analysis of miRNA and gene expression associated with endothelial dysfunction in patients with chronic venous insufficiency and atherosclerosis
+        
+        title: Postgraduate course in Medicinal Laboratory, Laboratory Diagnostician License
+        sub_title:  Faculty of Pharmacy, Medical University of Lublin, Poland
+        caption:  October 2017 - July 2019
+        
+        title: Pharmacist
+        sub_title:  "Melisa" pharmacy, Lublin, Poland
+        caption:  March 2013 - June 2015
+        
+        title: MSc in Pharmacy
+        sub_title:  Faculty of Pharmacy, Medical University of Lublin, Poland
+        caption:  October 2007 - January 2013
+        quote: >
+          MSc thesis title: Chromatographic analysis and study of anticancer activity of alkaloid fractions from Chelidonium majus L.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
