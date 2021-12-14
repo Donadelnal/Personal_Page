@@ -92,36 +92,40 @@ content:
         title: Postgraduate course in Data Analysis
         sub_title: Faculty of Mathematics, Physics and Computer Science, Maria Curie-Sklodowska University in Lublin, Poland
         caption: October 2019 - September 2020
-
+        
+      - layout: top-middle
         title: PhD in Pharmacy
         sub_title: Faculty of Pharmacy, Medical University of Lublin, Poland
         caption: October 2015 - September 2019
         quote: >
           PhD thesis title: Analysis of miRNA and gene expression associated with endothelial dysfunction in patients with chronic venous insufficiency and atherosclerosis
-
+        
+      - layout: top-middle
         title: Postgraduate course in Medicinal Laboratory, Laboratory Diagnostician License
         sub_title: Faculty of Pharmacy, Medical University of Lublin, Poland
         caption: October 2017 - July 2019
-
+        
+      - layout: top-middle
         title: Pharmacist
         sub_title: Melisa pharmacy, Lublin, Poland
         caption: March 2013 - June 2015
-
+        
+      - layout: top-middle
         title: MSc in Pharmacy
         sub_title: Faculty of Pharmacy, Medical University of Lublin, Poland
         caption: October 2007 - January 2013
         quote: >
           MSc thesis title: Chromatographic analysis and study of anticancer activity of alkaloid fractions from Chelidonium majus L.
 
-  - title: Experience # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
-    content:
-      - layout: right
-        title: The Boring Company
-        link: boringcompany.com
+    content: list
+      - layout: top-middle
+        title: Minitura 5 (Leader)
+        # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: title of project
+        caption: November 2021 - Present
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
