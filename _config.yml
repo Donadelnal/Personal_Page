@@ -38,6 +38,9 @@ additional_links:
 - title: Researchgate link
   icon: fab fa-researchgate
   url: https://www.researchgate.net/profile/Daniel_Zalewski29
+- title: University link
+  icon: fas fa-university
+  url: https://umlub.pl/uczelnia/pracownicy/szczegoly,3312.html
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
