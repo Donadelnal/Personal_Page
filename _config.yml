@@ -144,8 +144,8 @@ content:
     content:
       - layout: left
         title: Miniatura 5
-        sub_title: 
-        caption: November 2021 - Present
+        sub_title: November 2021 - Present
+        caption: 
 #        quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -153,22 +153,22 @@ content:
           
       - layout: left
         title: STRATEGMED 3
-        sub_title:
-        caption: July 2018 - December 2020
+        sub_title: July 2018 - December 2020
+        caption: 
         description: | # this will include new lines to allow paragraphs
          ## Development of optimized methods of treating tissue damage based on innovative composites and mesenchymal stem cells and their derivatives in patients with civilization diseases.
           
       - layout: left
         title: BIOSTRATEG 3
-        sub_title:
-        caption: February 2019 - May 2019
+        sub_title: February 2019 - May 2019
+        caption: 
         description: | # this will include new lines to allow paragraphs
          ## Bioproducts from lignocellulosic biomass derived from marginal land to fill the gap in current national bioeconomy.
           
       - layout: left
         title: Other
-        sub_title:
-        caption: Since 2015
+        sub_title: Since 2015
+        caption: 
         description: | # this will include new lines to allow paragraphs
           ## Identification of miRNA, transcriptomic and proteomic biomarkers associated with human peripheral vascular diseases and their risk factors.
           ## Identification of miRNAs involved in development of glaucoma.
@@ -183,17 +183,20 @@ content:
       - [tytuł](url)
       - Gaming
       - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - ggggg
+      
       #### 2020
       - Rock climbing
       - Gaming
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      
       #### 2019
       - Rock climbing
       - Gaming
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      
       #### 2017
       - Rock climbing
       - Gaming
