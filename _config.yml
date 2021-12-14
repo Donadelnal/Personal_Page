@@ -65,7 +65,7 @@ content:
   - title:  Academic and Research Career # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Research Assistant Professor
         caption: October 2017 - Present
         # link: http://www.umlub.pl/
