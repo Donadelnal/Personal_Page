@@ -176,7 +176,7 @@ content:
           ## Identification of genetic factors of human longevity.
           ## Identification of natural compounds with antiparasitic and anticancer activity.
           
-  - title: Conference presentations
+  - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
      #### 2021
@@ -199,7 +199,7 @@ content:
      #### 2017
       - Bogucka-Kocka, A.; Zalewski, D. Qualitative and Quantitative Determination of Main Alkaloids of Chelidonium Majus L. Using Thin-Layer Chromatographic-Densitometric Method. Acta Chromatographica 2017, 29, 385–397, doi:10.1556/1326.2017.29.3.09. [webpage](https://akjournals.com/view/journals/1326/29/3/article-p385.xmla)
       
-        - title: Publications
+  - title: Conference presentations
     layout: text
     content: | # this will include new lines to allow paragraphs
      #### 2021
