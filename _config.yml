@@ -180,34 +180,32 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
      #### 2021
-      - Bogucka-Kocka, A.; Zalewski, D. Qualitative and Quantitative Determination of Main Alkaloids of Chelidonium Majus L. Using Thin-Layer Chromatographic-Densitometric Method. Acta Chromatographica 2017, 29, 385–397, doi:10.1556/1326.2017.29.3.09 [Webpage](https://akjournals.com/view/journals/1326/29/3/article-p385.xmla)
-      - Gaming
-      - Knitting
-      - ggggg
+      - Zalewski, D.P.; Ruszel, K.P.; Stępniewski, A.; Gałkowski, D.; Bogucki, J.; Kołodziej, P.; Szymańska, J.; Płachno, B.J.; Zubilewicz, T.; Feldo, M.; et al. Identification of Transcriptomic Differences between Lower Extremities Arterial Disease, Abdominal Aortic Aneurysm and Chronic Venous Disease in Peripheral Blood Mononuclear Cells Specimens. Int J Mol Sci 2021, 22, doi:10.3390/ijms22063200. [Webpage](https://www.mdpi.com/1422-0067/22/6/3200/htm)
+      - Kołodziej, P.; Nicoś, M.; Krawczyk, P.A.; Bogucki, J.; Karczmarczyk, A.; Zalewski, D.; Kubrak, T.; Kołodziej, E.; Makuch-Kocka, A.; Madej-Czerwonka, B.; et al. The Correlation of Mutations and Expressions of Genes within the PI3K/Akt/MTOR Pathway in Breast Cancer—A Preliminary Study. International Journal of Molecular Sciences 2021, 22, 2061, doi:10.3390/ijms22042061. [webpage](https://www.mdpi.com/1422-0067/22/4/2061/htm)
+      - Kosior-Jarecka, E.; Czop, M.; Gasińska, K.; Wróbel-Dudzińska, D.; Zalewski, D.P.; Bogucka-Kocka, A.; Kocki, J.; Żarnowski, T. MicroRNAs in the Aqueous Humor of Patients with Different Types of Glaucoma. Graefe’s Archive for Clinical and Experimental Ophthalmology 2021, doi:10.1007/s00417-021-05214-z. [webpage](https://link.springer.com/article/10.1007%2Fs00417-021-05214-z)
+      - Iłżecki, M.; Feldo, M.; Bogucka-Kocka, A.; Zalewski, D.; Chmiel, P.; Dave, S.; Iłżecka, J. Serum Peroxiredoxin-1 in Patients Undergoing Carotid Endarterectomy – Short Report. Acta Angiologica 2021, 27, 49–52, doi:10.5603/AA.2021.0009. [webpage](https://journals.viamedica.pl/acta_angiologica/article/view/85467)
       
      #### 2020
-      - Rock climbing
-      - Gaming
-      - Knitting
+      - R. [Webpage](https://www.mdpi.com/1422-0067/22/6/3200/htm)
+      - G. [Webpage](https://www.mdpi.com/1422-0067/22/6/3200/htm)
+      - K. [Webpage](https://www.mdpi.com/1422-0067/22/6/3200/htm)
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
       
      #### 2019
-      - Rock climbing
-      - Gaming
+      - . [Webpage](https://www.mdpi.com/1422-0067/22/6/3200/htm)
+      - . [Webpage](https://www.mdpi.com/1422-0067/22/6/3200/htm)
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
       
      #### 2017
-      - Bogucka-Kocka, A.; Zalewski, D. Qualitative and Quantitative Determination of Main Alkaloids of Chelidonium Majus L. Using Thin-Layer Chromatographic-Densitometric Method. Acta Chromatographica 2017, 29, 385–397, doi:10.1556/1326.2017.29.3.09 [Webpage](https://akjournals.com/view/journals/1326/29/3/article-p385.xmla)
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Bogucka-Kocka, A.; Zalewski, D. Qualitative and Quantitative Determination of Main Alkaloids of Chelidonium Majus L. Using Thin-Layer Chromatographic-Densitometric Method. Acta Chromatographica 2017, 29, 385–397, doi:10.1556/1326.2017.29.3.09. [webpage](https://akjournals.com/view/journals/1326/29/3/article-p385.xmla)
+      - Ga
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
