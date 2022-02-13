@@ -105,8 +105,8 @@ content:
         title: Postgraduate course in Data Analysis
         sub_title: October 2019 - September 2020
         caption: 
-        description: | # this will include new lines to allow paragraphs
-         ##  Faculty of Mathematics, Physics and Computer Science, Maria Curie-Sklodowska University in Lublin, Poland:
+        #description: | # this will include new lines to allow paragraphs
+        # ##  Faculty of Mathematics, Physics and Computer Science, Maria Curie-Sklodowska University in Lublin, Poland:
         
       - layout: right
         title: PhD in Pharmacy
@@ -170,8 +170,8 @@ content:
         title: Innovation Incubator 4.0
         sub_title: January 2022 - Present
         caption: Researcher
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
          ## Validation of selected miRNA markers for diagnosis of human diseases.
          
