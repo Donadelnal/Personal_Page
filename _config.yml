@@ -66,9 +66,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: Research Adiunct Professor
+        sub_title: Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
+        caption: March 2022 - Present
+        
+      - layout: top-middle
         title: Research Assistant Professor
         sub_title: Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
-        caption: October 2021 - Present
+        caption: October 2021 - February 2022
         # link: http://www.umlub.pl/
         # link_text: Project Website
         # additional_links:
