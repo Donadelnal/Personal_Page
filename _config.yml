@@ -95,7 +95,7 @@ content:
         sub_title: February 2019 - September 2021
         caption: 
         description: | # this will include new lines to allow paragraphs
-           Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
+         ##  Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
         
 #      - layout: top-middle
 #        title: Research Assistant Professor
@@ -106,36 +106,48 @@ content:
         sub_title: October 2019 - September 2020
         caption: 
         description: | # this will include new lines to allow paragraphs
-         #######  Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
+         ##  Faculty of Mathematics, Physics and Computer Science, Maria Curie-Sklodowska University in Lublin, Poland
         
       - layout: right
         title: PhD in Pharmacy
-        sub_title: Faculty of Pharmacy, Medical University of Lublin, Poland
-        caption: October 2015 - September 2019
+        sub_title: October 2015 - September 2019
+        caption: 
+        description: | # this will include new lines to allow paragraphs
+         ##  Faculty of Pharmacy, Medical University of Lublin, Poland
         quote: >
           PhD thesis title: Analysis of miRNA and gene expression associated with endothelial dysfunction in patients with chronic venous insufficiency and atherosclerosis
-        
+          
       - layout: right
         title: Postgraduate course in Medicinal Laboratory, Laboratory Diagnostician License
-        sub_title: Faculty of Pharmacy, Medical University of Lublin, Poland
-        caption: October 2017 - July 2019
-        
+        caption: 
+        sub_title: October 2017 - July 2019
+        description: | # this will include new lines to allow paragraphs
+         ##  Faculty of Pharmacy, Medical University of Lublin, Poland
+         
       - layout: left
         title: Pharmacist
-        sub_title: Melisa pharmacy, Lublin, Poland
-        caption: March 2013 - June 2015
-        
+        sub_title: March 2013 - June 2015
+        caption: 
+        description: | # this will include new lines to allow paragraphs
+         ##  Melisa pharmacy, Lublin, Poland
+         
       - layout: right
         title: MSc in Pharmacy
-        sub_title: Faculty of Pharmacy, Medical University of Lublin, Poland
-        caption: October 2007 - January 2013
+        sub_title: October 2007 - January 2013
+        caption: 
+        description: | # this will include new lines to allow paragraphs
+         ##  Faculty of Pharmacy, Medical University of Lublin, Poland
         quote: >
           MSc thesis title: Chromatographic analysis and study of anticancer activity of alkaloid fractions from Chelidonium majus L.
           
       - layout: left
         title: Chairman of the Research Student Group "Biotechnolog"
-        sub_title: Development of a new thin-layer chromatography densitometric method for quantitative and qualitative determination of the main alkaloids of Chelidonium maius L. and in vitro investigations of the anticancer activity of the alkaloids
-        caption: October 2008 - September 2012
+        sub_title: October 2008 - September 2012
+        caption: 
+        description: | # this will include new lines to allow paragraphs
+         ##  Faculty of Pharmacy, Medical University of Lublin, Poland
+        quote: >
+          Development of a new thin-layer chromatography densitometric method for quantitative and qualitative determination of the main alkaloids of Chelidonium maius L. and in vitro investigations of the anticancer activity of the alkaloids
         
 #  - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
