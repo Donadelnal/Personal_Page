@@ -74,10 +74,10 @@ content:
          
       - layout: left
         title: Research Assistant Professor
-        sub_title: Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
-        caption: October 2021 - February 2022
+        sub_title: October 2021 - February 2022
+        caption: 
         # link: http://www.umlub.pl/
-        link_text: Project Website
+        # link_text: Project Website
         # additional_links:
         # - title:  sproogen/modern-resume-theme
         #   icon: fab fa-github
@@ -88,14 +88,14 @@ content:
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-         #####  Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
+         ##  Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
         
       - layout: left
         title: Research/Didactic Assistant Professor
         sub_title: February 2019 - September 2021
         caption: 
         description: | # this will include new lines to allow paragraphs
-         ######  Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
+           Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
         
 #      - layout: top-middle
 #        title: Research Assistant Professor
