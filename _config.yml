@@ -88,14 +88,14 @@ content:
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-         ###  Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
+         #####  Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
         
       - layout: left
         title: Research/Didactic Assistant Professor
         sub_title: February 2019 - September 2021
         caption: 
         description: | # this will include new lines to allow paragraphs
-         ####  Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
+         ######  Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
         
 #      - layout: top-middle
 #        title: Research Assistant Professor
@@ -106,7 +106,7 @@ content:
         sub_title: October 2019 - September 2020
         caption: 
         description: | # this will include new lines to allow paragraphs
-         #  Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
+         #######  Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
         
       - layout: right
         title: PhD in Pharmacy
