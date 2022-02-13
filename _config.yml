@@ -62,7 +62,7 @@ about_content: | # this will include new lines to allow paragraphs
   Working in innovative fields with amazing scientists allows me to make relevant discoveries, which is a great reward and a source of motivation and bravery to go further.
 
 content:
-  - title:  Research Career                                  Academic Career # Title for the section
+  - title:  Research Career                             Academic Career # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -150,7 +150,7 @@ content:
       - layout: left
         title: Miniatura 5
         sub_title: November 2021 - Present
-        caption: 
+        caption: aaaaaaaaaaaaaaaaaaaaa
 #        quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
