@@ -106,7 +106,7 @@ content:
         sub_title: October 2019 - September 2020
         caption: 
         description: | # this will include new lines to allow paragraphs
-         ##  Faculty of Mathematics, Physics and Computer Science, Maria Curie-Sklodowska University in Lublin, Poland
+         ##  Faculty of Mathematics, Physics and Computer Science, Maria Curie-Sklodowska University in Lublin, Poland:
         
       - layout: right
         title: PhD in Pharmacy
@@ -115,7 +115,7 @@ content:
         description: | # this will include new lines to allow paragraphs
          ##  Faculty of Pharmacy, Medical University of Lublin, Poland
         quote: >
-          PhD thesis title: Analysis of miRNA and gene expression associated with endothelial dysfunction in patients with chronic venous insufficiency and atherosclerosis
+          PhD thesis title: Analysis of miRNA and gene expression associated with endothelial dysfunction in patients with chronic venous insufficiency and atherosclerosis:
           
       - layout: right
         title: Postgraduate course in Medicinal Laboratory, Laboratory Diagnostician License
