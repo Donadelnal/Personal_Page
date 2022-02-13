@@ -62,15 +62,15 @@ about_content: | # this will include new lines to allow paragraphs
   Working in innovative fields with amazing scientists allows me to make relevant discoveries, which is a great reward and a source of motivation and bravery to go further.
 
 content:
-  - title:  Academic and Research Career # Title for the section
+  - title:  Research Career                                  Academic Career # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Research Adiunct Professor
         sub_title: Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
         caption: March 2022 - Present
         
-      - layout: top-middle
+      - layout: left
         title: Research Assistant Professor
         sub_title: Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
         caption: October 2021 - February 2022
@@ -88,7 +88,7 @@ content:
         #description: | # this will include new lines to allow paragraphs
         #  Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
         
-      - layout: top-middle
+      - layout: left
         title: Research/Didactic Assistant Professor
         sub_title: Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
         caption: February 2019 - September 2021
@@ -96,36 +96,36 @@ content:
 #        title: Research Assistant Professor
 #        sub_title: Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
 #        caption: October 2021 - Present        
-      - layout: top-middle
+      - layout: right
         title: Postgraduate course in Data Analysis
         sub_title: Faculty of Mathematics, Physics and Computer Science, Maria Curie-Sklodowska University in Lublin, Poland
         caption: October 2019 - September 2020
         
-      - layout: top-middle
+      - layout: right
         title: PhD in Pharmacy
         sub_title: Faculty of Pharmacy, Medical University of Lublin, Poland
         caption: October 2015 - September 2019
         quote: >
           PhD thesis title: Analysis of miRNA and gene expression associated with endothelial dysfunction in patients with chronic venous insufficiency and atherosclerosis
         
-      - layout: top-middle
+      - layout: right
         title: Postgraduate course in Medicinal Laboratory, Laboratory Diagnostician License
         sub_title: Faculty of Pharmacy, Medical University of Lublin, Poland
         caption: October 2017 - July 2019
         
-      - layout: top-middle
+      - layout: left
         title: Pharmacist
         sub_title: Melisa pharmacy, Lublin, Poland
         caption: March 2013 - June 2015
         
-      - layout: top-middle
+      - layout: right
         title: MSc in Pharmacy
         sub_title: Faculty of Pharmacy, Medical University of Lublin, Poland
         caption: October 2007 - January 2013
         quote: >
           MSc thesis title: Chromatographic analysis and study of anticancer activity of alkaloid fractions from Chelidonium majus L.
           
-      - layout: top-middle
+      - layout: left
         title: Chairman of the Research Student Group "Biotechnolog"
         sub_title: Development of a new thin-layer chromatography densitometric method for quantitative and qualitative determination of the main alkaloids of Chelidonium maius L. and in vitro investigations of the anticancer activity of the alkaloids
         caption: October 2008 - September 2012
