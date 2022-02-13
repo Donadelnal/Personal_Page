@@ -67,9 +67,11 @@ content:
     content:
       - layout: left
         title: Research Adiunct Professor
-        sub_title: Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
+        sub_title: 
         caption: March 2022 - Present
-        
+        description: | # this will include new lines to allow paragraphs
+         ## Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
+         
       - layout: left
         title: Research Assistant Professor
         sub_title: Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
@@ -148,9 +150,18 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Innovation Incubator 4.0
+        sub_title: January 2022 - Present
+        caption: Researcher
+        quote: >
+          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+         ## Validation of selected miRNA markers for diagnosis of human diseases.
+         
+      - layout: left
         title: Miniatura 5
         sub_title: November 2021 - Present
-        caption: aaaaaaaaaaaaaaaaaaaaa
+        caption: Principal Investigator
 #        quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -159,21 +170,21 @@ content:
       - layout: left
         title: STRATEGMED 3
         sub_title: July 2018 - December 2020
-        caption: 
+        caption: Researcher
         description: | # this will include new lines to allow paragraphs
          ## Development of optimized methods of treating tissue damage based on innovative composites and mesenchymal stem cells and their derivatives in patients with civilization diseases.
           
       - layout: left
         title: BIOSTRATEG 3
         sub_title: February 2019 - May 2019
-        caption: 
+        caption: Researcher
         description: | # this will include new lines to allow paragraphs
          ## Bioproducts from lignocellulosic biomass derived from marginal land to fill the gap in current national bioeconomy.
           
       - layout: left
         title: Other
         sub_title: Since 2015
-        caption: 
+        caption: Researcher
         description: | # this will include new lines to allow paragraphs
           ## Identification of miRNA, transcriptomic and proteomic biomarkers associated with human peripheral vascular diseases and their risk factors.
           ## Identification of miRNAs involved in development of glaucoma.
