@@ -67,7 +67,7 @@ content:
     content:
       - layout: left
         title: Research Adiunct Professor
-        sub_title: 
+        sub_title: March 2022 - Present
         caption: March 2022 - Present
         description: | # this will include new lines to allow paragraphs
          ## Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
@@ -77,7 +77,7 @@ content:
         sub_title: Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
         caption: October 2021 - February 2022
         # link: http://www.umlub.pl/
-        # link_text: Project Website
+        link_text: Project Website
         # additional_links:
         # - title:  sproogen/modern-resume-theme
         #   icon: fab fa-github
@@ -159,7 +159,7 @@ content:
          ## Validation of selected miRNA markers for diagnosis of human diseases.
          
       - layout: left
-        title: Miniatura 5
+        title: Miniature 5
         sub_title: November 2021 - Present
         caption: Principal Investigator
 #        quote: >
