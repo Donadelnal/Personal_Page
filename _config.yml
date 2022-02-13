@@ -90,7 +90,7 @@ content:
         description: | # this will include new lines to allow paragraphs
          ##  Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
         
-      - layout: left
+      - layout: top-left
         title: Research/Didactic Assistant Professor
         sub_title: February 2019 - September 2021
         caption: 
@@ -105,8 +105,8 @@ content:
         title: Postgraduate course in Data Analysis
         sub_title: October 2019 - September 2020
         caption: 
-        #description: | # this will include new lines to allow paragraphs
-        # ##  Faculty of Mathematics, Physics and Computer Science, Maria Curie-Sklodowska University in Lublin, Poland:
+        description: | # this will include new lines to allow paragraphs
+         ##  Faculty of Mathematics, Physics and Computer Science, Maria Curie-Sklodowska University in Lublin, Poland:
         
       - layout: right
         title: PhD in Pharmacy
