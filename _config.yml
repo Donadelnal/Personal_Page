@@ -191,7 +191,7 @@ content:
         description: | # this will include new lines to allow paragraphs
          ## sporadically.
          
-       - layout: left
+      - layout: left
         title: R, R Studio
         # sub_title: January 2022 - Present
         caption: Level: Advanced
