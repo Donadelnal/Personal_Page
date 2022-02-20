@@ -62,7 +62,7 @@ about_content: | # this will include new lines to allow paragraphs
   Working in innovative fields with amazing scientists allows me to make relevant discoveries, which is a great reward and a source of motivation and bravery to go further.
 
 content:
-  - title:  "Research Career___________________________________________________Academic Career" # Title for the section
+  - title:  "Research Career<--<--<--<--<--<--<--<--<--<--<--<--<--<-->-->-->-->-->-->-->-->-->-->-->-->Academic Career" # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -77,7 +77,7 @@ content:
         sub_title: March 2022 - Present
         # caption: 
         description: | # this will include new lines to allow paragraphs
-         ##  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty of Electronics and Information Technology, Warsaw University of Technology
+         ##&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty of Electronics and Information Technology, Warsaw University of Technology
          
       - layout: left
         title: Research Assistant Professor
@@ -113,7 +113,7 @@ content:
         sub_title: October 2019 - September 2020
         caption: 
         description: | # this will include new lines to allow paragraphs
-         ##  Faculty of Mathematics, Physics and Computer Science, Maria Curie-Sklodowska University in Lublin, Poland
+         ##  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty of Mathematics, Physics and Computer Science, Maria Curie-Sklodowska University in Lublin, Poland
         
       - layout: right
         title: PhD in Pharmacy
