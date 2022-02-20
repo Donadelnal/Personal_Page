@@ -176,7 +176,7 @@ content:
       - layout: left
         title: R, R Studio
         # sub_title: January 2022 - Present
-        caption: Level: Advanced
+        caption: Level advanced
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -185,7 +185,7 @@ content:
       - layout: left
         title: Python
         # sub_title: November 2021 - Present
-        caption: Level: Basic
+        caption: Level basic
 #        quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -194,7 +194,7 @@ content:
       - layout: left
         title: R, R Studi
         # sub_title: January 2022 - Present
-        caption: Level: Advanced
+        caption: Level advanced
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -203,7 +203,7 @@ content:
       - layout: left
         title: Pytho
         # sub_title: November 2021 - Present
-        caption: Level: Basic
+        caption: "Level: Basic"
 #        quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
