@@ -77,7 +77,7 @@ content:
         sub_title: March 2022 - Present
         # caption: 
         description: | # this will include new lines to allow paragraphs
-         ##  Faculty of Electronics and Information Technology, Warsaw University of Technology
+         ##  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty of Electronics and Information Technology, Warsaw University of Technology
          
       - layout: left
         title: Research Assistant Professor
@@ -176,21 +176,39 @@ content:
       - layout: left
         title: R, R Studio
         # sub_title: January 2022 - Present
-        caption: Advanced user
+        caption: Level: Advanced
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
          ## R programming with
          
       - layout: left
-        title: Miniature 5
-        sub_title: November 2021 - Present
-        caption: Principal Investigator
+        title: Python
+        # sub_title: November 2021 - Present
+        caption: Level: Basic
 #        quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-         ## The analysis of microRNA expression profiles in plasma of patients with lower extremities arterial disease, abdominal aortic aneurysm and chronic venous disease - the preliminary study.
-          
+         ## sporadically.
+         
+       - layout: left
+        title: R, R Studio
+        # sub_title: January 2022 - Present
+        caption: Level: Advanced
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+         ## R programming with
+         
+      - layout: left
+        title: Python
+        # sub_title: November 2021 - Present
+        caption: Level: Basic
+#        quote: >
+#          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+         ## sporadically.
+         
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
