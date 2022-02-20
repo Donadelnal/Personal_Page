@@ -57,7 +57,7 @@ about_profile_image: images/profile_image_ok_small_small.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Daniel and I work as a researcher in the Medical University of Lublin in Poland.
   
-  In my research, I focus on the identification of transcriptomic biomarkers of peripheral vascular diseases to explain their pathogenesis and propose diagnostic and therapeutic targets. I use such technologies as Ion Torrent NGS sequencing, RT-qPCR, ELISA, and for data analysis and visualisation, I mainly use an excellent R environment.
+  In my research, I focus on the identification of transcriptomic biomarkers of peripheral vascular diseases to explain their pathogenesis and propose diagnostic and therapeutic targets. I use such technologies as NGS sequencing, RT-qPCR, ELISA, and for data analysis and visualisation, I mainly use an excellent R environment.
   
   Working in innovative fields with amazing scientists allows me to make relevant discoveries, which is a great reward and a source of motivation and bravery to go further.
 
@@ -65,12 +65,19 @@ content:
   - title:  Research Career                             Academic Career # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top_middle
+      - layout: left
         title: Research Adiunct Professor
         sub_title: March 2022 - Present
         # caption: March 2022 - Present
         description: | # this will include new lines to allow paragraphs
          ## Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
+       
+       - layout: top-right
+        title: Postgraduate course in Data Analysis
+        sub_title: October 2019 - September 2020
+        caption: 
+        description: | # this will include new lines to allow paragraphs
+         ##  Faculty of Mathematics, Physics and Computer Science, Maria Curie-Sklodowska University in Lublin, Poland
          
       - layout: left
         title: Research Assistant Professor
@@ -90,7 +97,7 @@ content:
         description: | # this will include new lines to allow paragraphs
          ##  Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
         
-      - layout: top-left
+      - layout: left
         title: Research/Didactic Assistant Professor
         sub_title: February 2019 - September 2021
         caption: 
@@ -106,7 +113,7 @@ content:
         sub_title: October 2019 - September 2020
         caption: 
         description: | # this will include new lines to allow paragraphs
-         ##  Faculty of Mathematics, Physics and Computer Science, Maria Curie-Sklodowska University in Lublin, Poland:
+         ##  Faculty of Mathematics, Physics and Computer Science, Maria Curie-Sklodowska University in Lublin, Poland
         
       - layout: right
         title: PhD in Pharmacy
