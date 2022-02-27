@@ -199,7 +199,7 @@ content:
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-         ## Used to quick, explorative insights into data.
+         ## Used to gain quick, explorative insights into data.
          
       - layout: left
         title: Cytoscape
@@ -208,7 +208,7 @@ content:
 #        quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-         ## I use often to construct and analyze interaction networks.
+         ## I often use to construct and analyze interaction networks.
        
       - layout: left
         title: SQL
@@ -217,7 +217,7 @@ content:
 #        quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-         ## I use sometimes to retrieve data for analysis.
+         ## Sometimes I use to retrieve data for analysis.
          
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -268,6 +268,7 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
+     #### 2022
      #### 2021
       - Zalewski, D.P.; Ruszel, K.P.; Stępniewski, A.; Gałkowski, D.; Bogucki, J.; Kołodziej, P.; Szymańska, J.; Płachno, B.J.; Zubilewicz, T.; Feldo, M.; et al. Identification of Transcriptomic Differences between Lower Extremities Arterial Disease, Abdominal Aortic Aneurysm and Chronic Venous Disease in Peripheral Blood Mononuclear Cells Specimens. Int J Mol Sci 2021, 22, doi:10.3390/ijms22063200. [Webpage](https://www.mdpi.com/1422-0067/22/6/3200/htm)
       - Kołodziej, P.; Nicoś, M.; Krawczyk, P.A.; Bogucki, J.; Karczmarczyk, A.; Zalewski, D.; Kubrak, T.; Kołodziej, E.; Makuch-Kocka, A.; Madej-Czerwonka, B.; et al. The Correlation of Mutations and Expressions of Genes within the PI3K/Akt/MTOR Pathway in Breast Cancer—A Preliminary Study. International Journal of Molecular Sciences 2021, 22, 2061, doi:10.3390/ijms22042061. [Webpage](https://www.mdpi.com/1422-0067/22/4/2061/htm)
@@ -338,12 +339,47 @@ content:
      #### 2011
       - Glistnik jaskółcze ziele, jako znana i nieznana roślina o działaniu przeciwnowotworowym. ANNA BOGUCKA-KOCKA, DANIEL ZALEWSKI, MARIA GADZIKOWSKA. W: I Ogólnopolska Konferencja Naukowo-Szkoleniowa "Polskie kolekcje roślin leczniczych - źródłem materiału badawczego". Lublin, 10-11.06.2011 r. Streszcz s. 47.
       - Ocena właściwości przeciwnowotworowych i analiza chromatograficzna frakcji alkaloidowych z ziela i korzeni Chelidonium majus. DANIEL ZALEWSKI. W: L Sympozjum Studenckich Kół Naukowych Uczelni Medycznych. Lublin, 12-13 listopada 2011. [Streszcz.] s. 78.
+      - Oral presentation „Nowotwory – dlaczego wciąż niepokonane?” Międzynarodowa Konferencja Studenckich Kół Naukowych „Integracja Działań w Trosce o Zdrowie Człowieka”, 16 May 2011, )Nowy Targ, Poland
       
      #### 2010
       - Badanie aktywności cytostatycznej i analiza procesu apoptozy wywołanej przez frakcje alkaloidowe z ziela i korzeni Chelidonium majus. DANIEL ZALEWSKI. Prz. Lek. 2010 t. 67 supl. 1 s. 15, Międzynarodowa Konferencja Naukowa Studentów Uczelni Medycznych. Kraków, 22-24 kwiecień 2010. Streszcz.
 #      - Chromatographic analysis and evaluation of anticancer activity of alkaloid fractions obtained from aerial parts and root of Chelidonium maius L. ANNA BOGUCKA-KOCKA, DANIEL ZALEWSKI. W: 2nd International Conference and Workshop : Plant - the source of research material. (Roślina - źródłem materiału badawczego.) Lublin, 18-20.10.2012. Abstr s. 121.
 #      - The qualitative and quantitative densitometric analysis and evaluation of anticancer activity of alkaloid fractions from the aerial parts and root of Chelidonium maius L. DANIEL ZALEWSKI. W: II International Students' Conference of Young Medical Researchers. XVII Ogólnopolska Konferencja Studenckich Kół Naukowych Uczelni Medycznych. Wrocław, 13-14.04.2012. Abstr s. 239.
   
+  - title: Awards, scholarships and plenary lectures
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+     #### 2021
+      - Internal scholarship for young researchers, Medical University of Lublin, Poland
+     
+     #### 2020
+      - The award of the Rector of Medical University of Lublin for scientific achievements in 2019, Medical University of Lublin, Poland
+      - Gold medal and International Federation of Inventors Associations award for patent entitled: New miRNA markers of artery atherosclerosis and application of miRNA markers for the diagnosis of artery atherosclerosis, XIII International Invention and Innovation Show and Competition INTARG®2020 Online 'Innovations drive the economy'
+      - Second prize for PhD thesis titled Analysis of miRNA and gene expression associated with endothelial dysfunction in patients with chronic venous insufficiency and atherosclerosis (originally titled "Analiza ekspresji miRNA i genów związanych z patologią śródbłonka u osób chorych na przewlekłą niewydolność żylną i miażdżycę") in the Competition of PhD Theses of the Faculty of Pharmacy defended in 2018 and 2019, Medical University of Lublin, Poland
+     
+     #### 2019
+      - Oral presentation “Cytotoxity and proapoptotic activity of sanguinarine, berberine and extracts of Chelidonium majus L. and Berberis Thunbergii DC“, VI International Conference “Plant - the source of research material”, 10 - 12 September 2019, Lublin, Poland
+     
+     #### 2018
+      - Plenary lecture "MicroRNA as a new diagnostic marker", International Conference "Be in progress 3", Medical University of Lublin, Poland
+      
+     #### 2017
+      - Award of the President of the Lublin Branch of Polish Academy of Science for the research work "OpenArray technology application for miRNA expression by real-time PCR method" as the best research work in the Lublin region in 2016, Lublin, Poland.
+      - Leading of the workshop "Possibilities of Modern Next Generation Sequencing Equipment", 8th Lviv-Lublin Conference of Experimental and clinical Biochemistry, 18-20 September 2017, Lublin, Poland
+      - Oral presentation "Densitometric TLC method - a simply tool for determination of main alkaloids of Chelidonium maius L.", 5th International Conference and Workshop : Plant - the source of research material, 21-24 June 2017, Lublin, Poland
+      
+     #### 2015
+      - Scholarship for the best PhD students, Medical University of Lublin, Poland.
+      
+     #### 2013
+      - Award for the master thesis in the National Master's Theses Contest, Warsaw, Poland
+      
+     #### 2012
+      - First prize for master thesis titled "Chromatographic analysis and study of anticancer activity of alkaloid fractions from Chelidonium majus L." in the Competition of Master's Theses of the Faculty of Pharmacy, Medical University of Lublin, Poland
+      - Third prize for the scientific report: „Jakościowa i ilościowa analiza TLC oraz ocena aktywności przeciwnowotworowej frakcji alkaloidowych z ziela i korzeni Chelidonium majus L.” in LI Sympozjum Studenckich Kół Naukowych Uczelni Medycznych, Lublin, Poland.
+      
+      
+    
 
 
       #Look at this cool image  
