@@ -7,10 +7,10 @@ version: 2
 
 # Personal info
 name: Daniel Zalewski
-title: Researcher, Bioinformatician, R programmer, Pharmacist, Laboratory Diagnostician
+title: Academic Researcher, Bioinformatician, R programmer, Pharmacist, Laboratory Diagnostician
 email: daniel.piotr.zalewski@gmail.com
 website: https://donadelnal.github.io/Personal_page/
-image: images/profile.jpg
+image: images/profile_image_ok_small_small.jpg
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -38,6 +38,9 @@ additional_links:
 - title: Researchgate link
   icon: fab fa-researchgate
   url: https://www.researchgate.net/profile/Daniel_Zalewski29
+- title: University link
+  icon: fas fa-university
+  url: https://umlub.pl/uczelnia/pracownicy/szczegoly,3312.html
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -50,74 +53,345 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile_image_ok_small_small.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, 
-
-  I am most skilled in: <mark>R</mark>
+  Hi, I'm Daniel and I work as a researcher in the Medical University of Lublin in Poland.
+  
+  In my research, I focus on the identification of transcriptomic biomarkers of peripheral vascular diseases to explain their pathogenesis and propose diagnostic and therapeutic targets. I use such technologies as NGS sequencing, RT-qPCR, ELISA, and for data analysis and visualisation, I mainly use an excellent R environment.
+  
+  Working in innovative fields with amazing scientists allows me to make relevant discoveries, which is a great reward and a source of motivation and bravery to go further.
 
 content:
-  - title: Projects # Title for the section
+  - title:  "Research Career<<<<<<<<<<<<<<<<<<<<<---->>>>>>>>>>>>>>>>>>>>>Academic Career" # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+      - layout: left
+        title: Research Adiunct Professor
+        sub_title: March 2022 - Present
+        # caption: March 2022 - Present
+        description: | # this will include new lines to allow paragraphs
+         ## Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
+       
+      - layout: right
+        title: Postgraduate course in Data Science
+        sub_title: March 2022 - Present
+        # caption: 
+        description: | # this will include new lines to allow paragraphs
+         ##  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty of Electronics and Information Technology, Warsaw University of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technology
+         
+      - layout: left
+        title: Research Assistant Professor
+        sub_title: October 2021 - February 2022
+        caption: 
+        # link: http://www.umlub.pl/
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        # additional_links:
+        # - title:  sproogen/modern-resume-theme
+        #   icon: fab fa-github
+        #   url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+         ##  Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
+        
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Research/Didactic Assistant Professor
+        sub_title: February 2019 - September 2021
+        caption: 
+        description: | # this will include new lines to allow paragraphs
+         ##  Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
+        
+#      - layout: top-middle
+#        title: Research Assistant Professor
+#        sub_title: Chair and Department of Biology and Genetics, Faculty of Pharmacy, Medical University of Lublin, Poland
+#        caption: October 2021 - Present        
+      - layout: right
+        title: Postgraduate course in Data Analysis
+        sub_title: October 2019 - September 2020
+        caption: 
+        description: | # this will include new lines to allow paragraphs
+         ##  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty of Mathematics, Physics and Computer Science, Maria Curie- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sklodowska University in Lublin, Poland
+        
+      
+      - layout: right
+        title: Postgraduate course in Medicinal Laboratory, Laboratory Diagnostician License
+        caption: 
+        sub_title: October 2017 - July 2019
+        description: | # this will include new lines to allow paragraphs
+         ##  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty of Pharmacy, Medical University of Lublin, Poland
+      
+      - layout: right
+        title: PhD in Pharmacy
+        sub_title: October 2015 - September 2019
+        caption: 
+        description: | # this will include new lines to allow paragraphs
+         ##  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty of Pharmacy, Medical University of Lublin, Poland
+        quote: >
+          PhD thesis title: Analysis of miRNA and gene expression associated with endothelial dysfunction in patients with chronic venous insufficiency and atherosclerosis
+             
+      - layout: left
+        title: Pharmacist
+        sub_title: March 2013 - June 2015
+        caption: 
+        description: | # this will include new lines to allow paragraphs
+         ##  Melisa pharmacy, Lublin, Poland
+         
+      - layout: right
+        title: MSc in Pharmacy
+        sub_title: October 2007 - January 2013
+        caption: 
+        description: | # this will include new lines to allow paragraphs
+         ##  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty of Pharmacy, Medical University of Lublin, Poland
+        quote: >
+          MSc thesis title: Chromatographic analysis and study of anticancer activity of alkaloid fractions from Chelidonium majus L.
+          
+      - layout: left
+        title: Chairman of the Research Student Group "Biotechnolog"
+        sub_title: October 2008 - September 2012
+        caption: 
+        description: | # this will include new lines to allow paragraphs
+         ##  Faculty of Pharmacy, Medical University of Lublin, Poland
+        quote: >
+          Development of a new thin-layer chromatography densitometric method for quantitative and qualitative determination of the main alkaloids of Chelidonium maius L. and in vitro investigations of the anticancer activity of the alkaloids
+        
+#  - title: Projects # Title for the section
+#    layout: list # Type of content section (list/text)
+#    content: list
+#      - layout:
+#        title: Miniatura
+        # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+#        sub_title: title of project
+#        caption: November 2021 - Present
+#        quote: >
+#          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+#        description: | # this will include new lines to allow paragraphs
+#            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
-  - title: Education # Title for the section
+  - title: Used tools # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: R, R Studio
+        # sub_title: January 2022 - Present
+        caption: Level advanced
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
+         ## I use R and R Studio in my daily work for data processing, statistical analysis, working with machine learning models, data visualisations and dashboards preparation.
+         
+      - layout: left
+        title: Python
+        # sub_title: November 2021 - Present
+        caption: Level basic
+#        quote: >
+#          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+         ## I use sporadically to specific applications.
+         
+      - layout: left
+        title: Tableau, Power BI
+        # sub_title: January 2022 - Present
+        caption: Level intermediate
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+         ## Used to gain quick, explorative insights into data.
+         
+      - layout: left
+        title: Cytoscape
+        # sub_title: November 2021 - Present
+        caption: Level intermediate
+#        quote: >
+#          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+         ## I often use to construct and analyze interaction networks.
+       
+      - layout: left
+        title: SQL
+        # sub_title: November 2021 - Present
+        caption: Level basic
+#        quote: >
+#          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+         ## Sometimes I use to retrieve data for analysis.
+         
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Innovation Incubator 4.0
+        sub_title: January 2022 - Present
+        caption: Researcher
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+         ## Validation of selected miRNA markers for diagnosis of human diseases.
+      
+      - layout: left
+        title: POWER
+        sub_title: December 2021 - January 2022
+        caption: Trainer
+        description: | # this will include new lines to allow paragraphs
+         ##  Integrated development program of the Medical University of Lublin, 2nd edition
+            
+      - layout: left
+        title: Miniature 5
+        sub_title: November 2021 - Present
+        caption: Principal Investigator
+#        quote: >
+#          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+         ## The analysis of microRNA expression profiles in plasma of patients with lower extremities arterial disease, abdominal aortic aneurysm and chronic venous disease - the preliminary study.
+       
+       
+      - layout: left
+        title: STRATEGMED 3
+        sub_title: July 2018 - December 2020
+        caption: Researcher
+        description: | # this will include new lines to allow paragraphs
+         ## Development of optimized methods of treating tissue damage based on innovative composites and mesenchymal stem cells and their derivatives in patients with civilization diseases.
+          
+      - layout: left
+        title: BIOSTRATEG 3
+        sub_title: February 2019 - May 2019
+        caption: Researcher
+        description: | # this will include new lines to allow paragraphs
+         ## Bioproducts from lignocellulosic biomass derived from marginal land to fill the gap in current national bioeconomy.
+          
+      - layout: left
+        title: Other
+        sub_title: Since 2015
+        caption: Researcher
+        description: | # this will include new lines to allow paragraphs
+          ## Identification of miRNA, transcriptomic and proteomic biomarkers associated with human peripheral vascular diseases and their risk factors.
+          ## Identification of miRNAs involved in development of glaucoma.
+          ## Investigations on Alzheimer disease-related genes after stroke.
+          ## Identification of genetic factors of human longevity.
+          ## Identification of natural compounds with antiparasitic and anticancer activity.
+          
+  - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+     #### 2022
+     #### 2021
+      - Zalewski, D.P.; Ruszel, K.P.; Stępniewski, A.; Gałkowski, D.; Bogucki, J.; Kołodziej, P.; Szymańska, J.; Płachno, B.J.; Zubilewicz, T.; Feldo, M.; et al. Identification of Transcriptomic Differences between Lower Extremities Arterial Disease, Abdominal Aortic Aneurysm and Chronic Venous Disease in Peripheral Blood Mononuclear Cells Specimens. Int J Mol Sci 2021, 22, doi:10.3390/ijms22063200. [Webpage](https://www.mdpi.com/1422-0067/22/6/3200/htm)
+      - Kołodziej, P.; Nicoś, M.; Krawczyk, P.A.; Bogucki, J.; Karczmarczyk, A.; Zalewski, D.; Kubrak, T.; Kołodziej, E.; Makuch-Kocka, A.; Madej-Czerwonka, B.; et al. The Correlation of Mutations and Expressions of Genes within the PI3K/Akt/MTOR Pathway in Breast Cancer—A Preliminary Study. International Journal of Molecular Sciences 2021, 22, 2061, doi:10.3390/ijms22042061. [Webpage](https://www.mdpi.com/1422-0067/22/4/2061/htm)
+      - Kosior-Jarecka, E.; Czop, M.; Gasińska, K.; Wróbel-Dudzińska, D.; Zalewski, D.P.; Bogucka-Kocka, A.; Kocki, J.; Żarnowski, T. MicroRNAs in the Aqueous Humor of Patients with Different Types of Glaucoma. Graefe’s Archive for Clinical and Experimental Ophthalmology 2021, doi:10.1007/s00417-021-05214-z. [Webpage](https://link.springer.com/article/10.1007%2Fs00417-021-05214-z)
+      - Iłżecki, M.; Feldo, M.; Bogucka-Kocka, A.; Zalewski, D.; Chmiel, P.; Dave, S.; Iłżecka, J. Serum Peroxiredoxin-1 in Patients Undergoing Carotid Endarterectomy – Short Report. Acta Angiologica 2021, 27, 49–52, doi:10.5603/AA.2021.0009. [Webpage](https://journals.viamedica.pl/acta_angiologica/article/view/85467)
+      - Daniel Zalewski, Przemysław Kołodziej, Anna Bogucka-Kocka. Aktywność przeciwpasożytnicza. Olejki eteryczne w profilaktyce i leczeniu chorób infekcyjnych. Red. nauk. Anna Malm, s. 72-93, Wydawnictwo Lekarskie PZWL, Warszawa, 2021. ISBN 978-83-200-6397-4. [Webpage](https://pzwl.pl/Olejki-eteryczne-w-profilaktyce-i-leczeniu-chorob-infekcyjnych,160473246,p.html)
+      - Iłżecki, M.; Feldo, M.; Bogucka-Kocka, A.; Zalewski, D.; Chmiel, P.; Dave, S.; Iłżecka, J.; Zubilewicz, T. Biomarkers of Brain Ischemia-Reperfusion Injury after Carotid Endarterectomy. Acta Angiologica 2021, 27, 113–119, doi:10.5603/AA.2021.0013. [Webpage](https://journals.viamedica.pl/acta_angiologica/article/view/AA.2021.0013/65528)
+      
+     #### 2020
+      - Zalewski, D.P.; Ruszel, K.P.; Stępniewski, A.; Gałkowski, D.; Bogucki, J.; Komsta, Ł.; Kołodziej, P.; Chmiel, P.; Zubilewicz, T.; Feldo, M.; et al. Dysregulations of MicroRNA and Gene Expression in Chronic Venous Disease. J Clin Med 2020, 9, doi:10.3390/jcm9051251. [Webpage](https://www.mdpi.com/2077-0383/9/5/1251/htm)
+      - Zalewski, D.P.; Ruszel, K.P.; Stępniewski, A.; Gałkowski, D.; Bogucki, J.; Komsta, Ł.; Kołodziej, P.; Chmiel, P.; Zubilewicz, T.; Feldo, M.; et al. Dysregulation of MicroRNA Modulatory Network in Abdominal Aortic Aneurysm. J Clin Med 2020, 9, doi:10.3390/jcm9061974. [Webpage](https://www.mdpi.com/2077-0383/9/6/1974/htm)
+      - Daniel Zalewski, Paulina Chmiel, Marcin Feldo, Anna Bogucka-Kocka. Choroba tętnic kończyn dolnych jako jedna z przyczyn niepełnosprawności osób dorosłych. Medycyna spersonalizowana 2020. Red. Anna Bogucka-Kocka, Janusz Kocki, s. 247-256, Wydawnictwo Muzyczne POLIHYMNIA Sp. z o.o., Lublin 2020. ISBN 978-83-7847-714-3
+      
+     #### 2019
+      - Bogucka-Kocka, A.; Zalewski, D.P.; Ruszel, K.P.; Stępniewski, A.; Gałkowski, D.; Bogucki, J.; Komsta, Ł.; Kołodziej, P.; Zubilewicz, T.; Feldo, M.; et al. Dysregulation of MicroRNA Regulatory Network in Lower Extremities Arterial Disease. Front Genet 2019, 10, 1200, doi:10.3389/fgene.2019.01200. [Webpage](https://www.frontiersin.org/articles/10.3389/fgene.2019.01200/full)
+      - Och, A.; Zalewski, D.; Komsta, Ł.; Kołodziej, P.; Kocki, J.; Bogucka-Kocka, A. Cytotoxic and Proapoptotic Activity of Sanguinarine, Berberine, and Extracts of Chelidonium Majus L. and Berberis Thunbergii DC. toward Hematopoietic Cancer Cell Lines. Toxins 2019, 11, 485, doi:10.3390/toxins11090485. [Webpage](https://www.mdpi.com/2072-6651/11/9/485/htm)
+      - Anna Bogucka-Kocka, Przemysław Kołodziej, Daniel Zalewski, Janusz Kocki. Wpływ chorób pasożytniczych na funkcje poznawcze oraz zachowanie i rozwój dzieci. Wybrane zagadnienia z medycyny spersonalizowanej. Red. Piotr Goliszek, Andrzej Kiciński i Janusz Kocki, s. 109-118. Stowarzyszenie Absolwentów i Przyjaciół Wydziału Prawa Katolickiego Uniwersytetu Lubelskiego, Lublin, 2019. ISBN 978-83-956633-2-1.
+      
+     #### 2017
+      - Bogucka-Kocka, A.; Zalewski, D. Qualitative and Quantitative Determination of Main Alkaloids of Chelidonium Majus L. Using Thin-Layer Chromatographic-Densitometric Method. Acta Chromatographica 2017, 29, 385–397, doi:10.1556/1326.2017.29.3.09. [Webpage](https://akjournals.com/view/journals/1326/29/3/article-p385.xmla)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  - title: Patents
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+     #### 2019
+       - Sposób diagnozowania miażdżycy tętnic oraz zastosowanie markerów miRNA do diagnozowania miażdżycy tętnic. Anna Bogucka-Kocka, Daniel Zalewski, Marcin Feldo, Karol Ruszel, Janusz Kocki, Tomasz Zubilewicz, Andrzej Stępniewski, Uniwersytet Medyczny w Lublinie, Lublin, Nr zgłoszenia: P.424674 z dn. 26.02.2018, nr patentu 234498. [Webpage](https://ewyszukiwarka.pue.uprp.gov.pl/search/pwp-details/P.424674?lng=pl)
+      
+#     #### 2020
+#      - Zalewski, D.P.; Ruszel, K.P.; Stępniewski, A.; Gałkowski, D.; Bogucki, J.; Komsta, Ł.; Kołodziej, P.; Chmiel, P.; Zubilewicz, T.; Feldo, M.; et al. Dysregulations of MicroRNA and Gene Expression in Chronic Venous Disease. J Clin Med 2020, 9, doi:10.3390/jcm9051251. [Webpage](https://www.mdpi.com/2077-0383/9/5/1251/htm)
+#      - Zalewski, D.P.; Ruszel, K.P.; Stępniewski, A.; Gałkowski, D.; Bogucki, J.; Komsta, Ł.; Kołodziej, P.; Chmiel, P.; Zubilewicz, T.; Feldo, M.; et al. Dysregulation of MicroRNA Modulatory Network in Abdominal Aortic Aneurysm. J Clin Med 2020, 9, doi:10.3390/jcm9061974. [Webpage](https://www.mdpi.com/2077-0383/9/6/1974/htm)
+#      - Daniel Zalewski, Paulina Chmiel, Marcin Feldo, Anna Bogucka-Kocka. Choroba tętnic kończyn dolnych jako jedna z przyczyn niepełnosprawności osób dorosłych. Medycyna spersonalizowana 2020. Red. Anna Bogucka-Kocka, Janusz Kocki, s. 247-256, Wydawnictwo Muzyczne POLIHYMNIA Sp. z o.o., Lublin 2020. ISBN 978-83-7847-714-3
+            
+  - title: Conference presentations
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+     #### 2021
+      - Molecular basis of lower extremities arterial disease (LEAD). PAULINA CHMIEL, DANIEL ZALEWSKI. W: II Interdisciplinary Conference of Doctoral Students of Medical Universities "DocUMed" under the slogan "Libertas et ipsa scientia. Łódź, October 22-24, 2021. Abstr s. 18. Łódź 2021, Medical University of Łódź, 978-83-963099-5-2.
+          
+     #### 2019
+      - Sekwencjonowanie następnej generacji (NGS) - współczesne możliwości badań nad kwasami nukleinowymi. KAROL P. RUSZEL, DANIEL ZALEWSKI, ANDRZEJ STĘPNIEWSKI, ANNA BOGUCKA-KOCKA, JANUSZ KOCKI. W: VI Ogólnopolska Konferencja „Innowacje w praktyce”. Lublin, 4-5 kwietnia 2019. [Streszcz.] s. 168. Lublin 2019, Centrum Innowacji Naukowo-Edukacyjnych.
+      - Zintegrowana analiza ekspresji miRNA i genów pacjentów z chorobą tętnic kończyn dolnych. DANIEL ZALEWSKI, KAROL RUSZEL, MARCIN FELDO, TOMASZ ZUBILEWICZ, ANDRZEJ STĘPNIEWSKI, JANUSZ KOCKI, ANNA BOGUCKA-KOCKA. W: VI Ogólnopolska Konferencja „Innowacje w praktyce”. Lublin, 4-5 kwietnia 2019. [Streszcz.] s. 202-203. Lublin 2019, Centrum Innowacji Naukowo-Edukacyjnych.
+      - Zastosowanie środowiska programowania R do analizy danych sekwencjonowania Next Generation Sequencing na przykładzie zintegrowanej analizy ekspresji miRNA i genów pacjentów z przewlekłą chorobą żylną. DANIEL ZALEWSKI, KAROL RUSZEL, A. STĘPNIEWSKI, JANUSZ KOCKI, ANNA BOGUCKA-KOCKA. W: II Ogólnopolskie Sympozjum Młodych Naukowców : "PRODOC". Lublin 12 IV 2019. Streszcz s. 36.
+      - Cytotoxity and proapoptotic activity of sanguinarine, berberine and extracts of Chelidonium majus L. and Berberis Thunbergii DC. ANNA OCH, DANIEL ZALEWSKI, ŁUKASZ KOMSTA, JANUSZ KOCKI, ANNA BOGUCKA-KOCKA. W: 6th International Conference and Workshop : Plant - the source of research material. Nałęczów, 10 - 12 September 2019. Abstr s. 43.
+      - Anthelmintic activity of supercritical plant extracts. PRZEMYSŁAW KOŁODZIEJ, DANIEL ZALEWSKI, EDWARD RÓJ, ANNA MALM, ANNA BOGUCKA-KOCKA. W: 6th International Conference and Workshop : Plant - the source of research material. Nałęczów, 10 - 12 September 2019. Abstr s. 78.
+      - In vitro screening for anthelmintic activity of supercritical plant extracts against Rhabditis sp. ANNA BOGUCKA, PRZEMYSŁAW KOŁODZIEJ, DANIEL ZALEWSKI, EDWARD RÓJ, ANNA MALM. W: The 6th International Environmental Best Practices Conference “Sustainability schemes for bio-based products in the framework of the circular bioeconomy. Olsztyn, 24-26 September 2019 s. 168. Olsztyn 2019, Uniwersytet Warmińsko-Mazurski w Olsztynie, 978-83-8100-194-6.
+     
+     #### 2018
+      - MicroRNAs in atherosclerosis: altered expression and diagnostic potential. ANNA BOGUCKA-KOCKA, DANIEL ZALEWSKI, KAROL RUSZEL, JANUSZ KOCKI. Inż. Biomater. 2018 vol. 21 nr 148 nr spec. s. 76, 27th Annual Conference Biomaterials in Medicine and Veterinary Medicine. Rytro, 11-14 October 2018. [Abstr.].
+      - Pierwotna analiza danych uzyskanych z sekwencjonowania następnej generacji w systemie Ion S5 XL na przykładzie mikroRNA. (Primary analysis of Next Generation Sequencing data - microRNA sequencing on Ion S5 XL.). KAROL P. RUSZEL, DANIEL ZALEWSKI, ANDRZEJ STĘPNIEWSKI, ANNA BOGUCKA-KOCKA, JANUSZ KOCKI. W: IV Ogólnopolska Konferencja Naukowo-Szkoleniowa Medycyna Personalizowana : Genom-niepełnosprawność-edukacja-pacjent-technologie. Lublin, 27-28.11.2018. Streszcz. Red. Marcin Czop, Janusz Kocki, Anna Bogucka-Kocka, Wojciech Kocki, Bartłomiej Kwiatkowski, Natalia Przesmycka s. 145. Lublin 2018, Wydawnictwo Polihymia, 978-83-7847-569-9.
+      - Środowisko programowania R jako potężne narzędzie do analizy danych sekwencjonowania NGS na przykładzie zintegrowanej analizy ekspresji miRNAomu i transkryptomu pacjentów z miażdżycą tętnic obwodowych. (R programming environment as a powerful tool for NGS sequencing data analysis on the example of integrated miRNAome and transcriptome expression analysis in patients with peripheral arterial disease.). DANIEL ZALEWSKI, ANNA BOGUCKA-KOCKA, KAROL RUSZEL, ANDRZEJ STĘPNIEWSKI, JANUSZ KOCKI. W: IV Ogólnopolska Konferencja Naukowo-Szkoleniowa Medycyna Personalizowana : Genom-niepełnosprawność-edukacja-pacjent-technologie. Lublin, 27-28.11.2018. Streszcz. Red. Marcin Czop, Janusz Kocki, Anna Bogucka-Kocka, Wojciech Kocki, Bartłomiej Kwiatkowski, Natalia Przesmycka s. 182-183. Lublin 2018, Wydawnictwo Polihymia, 978-83-7847-569-9.
+      
+     #### 2017
+      - Densitometric TLC method - a simply tool for determination of main alkaloids of Chelidonium maius L. DANIEL ZALEWSKI, ANNA BOGUCKA-KOCKA. W: 5th International Conference and Workshop : Plant - the source of research material. Lublin, 21-24 June 2017. Abstr s. 36. O-8.
+      
+     #### 2016
+      - Wpływ diosminy na poziom białek z rodziny VEGF w osoczu krwi pacjentów z przewlekłą niewydolnością kończyn dolnych. MICHAŁ WOŹNIAK, DANIEL ZALEWSKI, ANNA BOGUCKA-KOCKA. W: VII Lubelskie Sympozjum Doktorantów Nauk Farmaceutycznych wraz z Otwartym Seminarium Nauk o Życiu. Lublin, 19 kwietnia 2016 [online]. [Streszcz.] s. 26
+      - Przewlekła choroba żylna - problem estetyczny czy społeczny?. MARCIN FELDO, ANNA BOGUCKA-KOCKA, JANUSZ KOCKI, DANIEL ZALEWSKI, ANNA BARTŁOMIEJCZYK, TOMASZ ZUBILEWICZ. W: III Ogólnopolska Konferencja Naukowo-Szkoleniowa Medycyna Personalizowana : Genom-Człowiek-Świat-Zagrożenia. Lublin, 23-25 listopada 2016. Streszcz s. 130.
+      - Zastosowanie techniki OpenArray do analizy ekspresji miRNA metodą real-time PCR. (OpenArray technology application for miRNA expression by real-time PCR method.). DANIEL ZALEWSKI, ANDRZEJ STĘPNIEWSKI, ANNA BOGUCKA-KOCKA. W: III Ogólnopolska Konferencja Naukowo-Szkoleniowa Medycyna Personalizowana : Genom-Człowiek-Świat-Zagrożenia. Lublin, 23-25 listopada 2016. Streszcz s. 299.
+      
+     #### 2013
+      - New chromatographic finger-printing TLC method for determination main alkaloids in extracts from Chelidonium majus L. ANNA BOGUCKA-KOCKA, DANIEL ZALEWSKI, MAGDALENA IZDEBSKA, EWA WÓJTOWICZ. W: 3rd International Conference and Workshop : Plant - the source of research material. (Roślina - źródłem materiału badawczego.) Lublin, 16-18.10.2013. Abstr s. 80.
+      
+     #### 2012
+      - The study of cytotoxic activity and densitometric TLC analysis of the alkaloid fractions obtained from aerial parts and root of Chelidonium maius. DANIEL ZALEWSKI. Prz. Lek. 2012 t. 69 supl. 1 s. 16, Międzynarodowa Konferencja Naukowa Studentów Uczelni Medycznych. Kraków, 12-14 kwietnia 2012.
+      - Chromatographic analysis and evaluation of anticancer activity of alkaloid fractions obtained from aerial parts and root of Chelidonium maius L. ANNA BOGUCKA-KOCKA, DANIEL ZALEWSKI. W: 2nd International Conference and Workshop : Plant - the source of research material. (Roślina - źródłem materiału badawczego.) Lublin, 18-20.10.2012. Abstr s. 121.
+      - The qualitative and quantitative densitometric analysis and evaluation of anticancer activity of alkaloid fractions from the aerial parts and root of Chelidonium maius L. DANIEL ZALEWSKI. W: II International Students' Conference of Young Medical Researchers. XVII Ogólnopolska Konferencja Studenckich Kół Naukowych Uczelni Medycznych. Wrocław, 13-14.04.2012. Abstr s. 239.
+      
+     #### 2011
+      - Glistnik jaskółcze ziele, jako znana i nieznana roślina o działaniu przeciwnowotworowym. ANNA BOGUCKA-KOCKA, DANIEL ZALEWSKI, MARIA GADZIKOWSKA. W: I Ogólnopolska Konferencja Naukowo-Szkoleniowa "Polskie kolekcje roślin leczniczych - źródłem materiału badawczego". Lublin, 10-11.06.2011 r. Streszcz s. 47.
+      - Ocena właściwości przeciwnowotworowych i analiza chromatograficzna frakcji alkaloidowych z ziela i korzeni Chelidonium majus. DANIEL ZALEWSKI. W: L Sympozjum Studenckich Kół Naukowych Uczelni Medycznych. Lublin, 12-13 listopada 2011. [Streszcz.] s. 78.
+      - Oral presentation „Nowotwory – dlaczego wciąż niepokonane?” Międzynarodowa Konferencja Studenckich Kół Naukowych „Integracja Działań w Trosce o Zdrowie Człowieka”, 16 May 2011, )Nowy Targ, Poland
+      
+     #### 2010
+      - Badanie aktywności cytostatycznej i analiza procesu apoptozy wywołanej przez frakcje alkaloidowe z ziela i korzeni Chelidonium majus. DANIEL ZALEWSKI. Prz. Lek. 2010 t. 67 supl. 1 s. 15, Międzynarodowa Konferencja Naukowa Studentów Uczelni Medycznych. Kraków, 22-24 kwiecień 2010. Streszcz.
+#      - Chromatographic analysis and evaluation of anticancer activity of alkaloid fractions obtained from aerial parts and root of Chelidonium maius L. ANNA BOGUCKA-KOCKA, DANIEL ZALEWSKI. W: 2nd International Conference and Workshop : Plant - the source of research material. (Roślina - źródłem materiału badawczego.) Lublin, 18-20.10.2012. Abstr s. 121.
+#      - The qualitative and quantitative densitometric analysis and evaluation of anticancer activity of alkaloid fractions from the aerial parts and root of Chelidonium maius L. DANIEL ZALEWSKI. W: II International Students' Conference of Young Medical Researchers. XVII Ogólnopolska Konferencja Studenckich Kół Naukowych Uczelni Medycznych. Wrocław, 13-14.04.2012. Abstr s. 239.
+  
+  - title: Awards, scholarships and plenary lectures
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+     #### 2021
+      - Internal scholarship for young researchers, Medical University of Lublin, Poland
+      - The award of the Rector of Medical University of Lublin for didactic achievements in 2019, Medical University of Lublin, Poland
+     
+     #### 2020
+      - The award of the Rector of Medical University of Lublin for scientific achievements in 2019, Medical University of Lublin, Poland
+      - Gold medal and International Federation of Inventors Associations award for patent entitled: New miRNA markers of artery atherosclerosis and application of miRNA markers for the diagnosis of artery atherosclerosis, XIII International Invention and Innovation Show and Competition INTARG®2020 Online 'Innovations drive the economy'
+      - Second prize for PhD thesis titled Analysis of miRNA and gene expression associated with endothelial dysfunction in patients with chronic venous insufficiency and atherosclerosis (originally titled "Analiza ekspresji miRNA i genów związanych z patologią śródbłonka u osób chorych na przewlekłą niewydolność żylną i miażdżycę") in the Competition of PhD Theses of the Faculty of Pharmacy defended in 2018 and 2019, Medical University of Lublin, Poland
+     
+     #### 2018
+      - Plenary lecture "MicroRNA as a new diagnostic marker", International Conference "Be in progress 3", Medical University of Lublin, Poland
+      
+     #### 2017
+      - Award of the President of the Lublin Branch of Polish Academy of Science for the research work "OpenArray technology application for miRNA expression by real-time PCR method" as the best research work in the Lublin region in 2016, Lublin, Poland.
+      - Leading of the workshop "Possibilities of Modern Next Generation Sequencing Equipment", 8th Lviv-Lublin Conference of Experimental and clinical Biochemistry, 18-20 September 2017, Lublin, Poland
+      
+     #### 2015
+      - Scholarship for the best PhD students, Medical University of Lublin, Poland.
+      
+     #### 2013
+      - Award for the master thesis in the National Master's Theses Contest, Warsaw, Poland
+      
+     #### 2012
+      - First prize for master thesis titled "Chromatographic analysis and study of anticancer activity of alkaloid fractions from Chelidonium majus L." in the Competition of Master's Theses of the Faculty of Pharmacy, Medical University of Lublin, Poland
+      - Third prize for the scientific report: „Jakościowa i ilościowa analiza TLC oraz ocena aktywności przeciwnowotworowej frakcji alkaloidowych z ziela i korzeni Chelidonium majus L.” in LI Sympozjum Studenckich Kół Naukowych Uczelni Medycznych, Lublin, Poland.
+      
+      
+    
+
+
+#      #Look at this cool image  
+#      #![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
