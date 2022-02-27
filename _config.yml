@@ -230,7 +230,14 @@ content:
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
          ## Validation of selected miRNA markers for diagnosis of human diseases.
-         
+      
+      - layout: left
+        title: POWER
+        sub_title: December 2021 - January 2022
+        caption: Trainer
+        description: | # this will include new lines to allow paragraphs
+         ##  Integrated development program of the Medical University of Lublin, 2nd edition
+            
       - layout: left
         title: Miniature 5
         sub_title: November 2021 - Present
@@ -239,7 +246,8 @@ content:
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
          ## The analysis of microRNA expression profiles in plasma of patients with lower extremities arterial disease, abdominal aortic aneurysm and chronic venous disease - the preliminary study.
-          
+       
+       
       - layout: left
         title: STRATEGMED 3
         sub_title: July 2018 - December 2020
@@ -351,14 +359,12 @@ content:
     content: | # this will include new lines to allow paragraphs
      #### 2021
       - Internal scholarship for young researchers, Medical University of Lublin, Poland
+      - The award of the Rector of Medical University of Lublin for didactic achievements in 2019, Medical University of Lublin, Poland
      
      #### 2020
       - The award of the Rector of Medical University of Lublin for scientific achievements in 2019, Medical University of Lublin, Poland
       - Gold medal and International Federation of Inventors Associations award for patent entitled: New miRNA markers of artery atherosclerosis and application of miRNA markers for the diagnosis of artery atherosclerosis, XIII International Invention and Innovation Show and Competition INTARG®2020 Online 'Innovations drive the economy'
       - Second prize for PhD thesis titled Analysis of miRNA and gene expression associated with endothelial dysfunction in patients with chronic venous insufficiency and atherosclerosis (originally titled "Analiza ekspresji miRNA i genów związanych z patologią śródbłonka u osób chorych na przewlekłą niewydolność żylną i miażdżycę") in the Competition of PhD Theses of the Faculty of Pharmacy defended in 2018 and 2019, Medical University of Lublin, Poland
-     
-     #### 2019
-      - Oral presentation “Cytotoxity and proapoptotic activity of sanguinarine, berberine and extracts of Chelidonium majus L. and Berberis Thunbergii DC“, VI International Conference “Plant - the source of research material”, 10 - 12 September 2019, Lublin, Poland
      
      #### 2018
       - Plenary lecture "MicroRNA as a new diagnostic marker", International Conference "Be in progress 3", Medical University of Lublin, Poland
@@ -366,7 +372,6 @@ content:
      #### 2017
       - Award of the President of the Lublin Branch of Polish Academy of Science for the research work "OpenArray technology application for miRNA expression by real-time PCR method" as the best research work in the Lublin region in 2016, Lublin, Poland.
       - Leading of the workshop "Possibilities of Modern Next Generation Sequencing Equipment", 8th Lviv-Lublin Conference of Experimental and clinical Biochemistry, 18-20 September 2017, Lublin, Poland
-      - Oral presentation "Densitometric TLC method - a simply tool for determination of main alkaloids of Chelidonium maius L.", 5th International Conference and Workshop : Plant - the source of research material, 21-24 June 2017, Lublin, Poland
       
      #### 2015
       - Scholarship for the best PhD students, Medical University of Lublin, Poland.
@@ -382,8 +387,8 @@ content:
     
 
 
-      #Look at this cool image  
-      #![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+#      #Look at this cool image  
+#      #![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: false
