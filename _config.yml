@@ -210,7 +210,7 @@ content:
         description: | # this will include new lines to allow paragraphs
          ## I use often to construct and analyze interaction networks.
        
-       - layout: left
+      - layout: left
         title: SQL
         # sub_title: November 2021 - Present
         caption: Level basic
